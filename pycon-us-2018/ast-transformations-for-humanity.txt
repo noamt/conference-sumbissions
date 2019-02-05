@@ -1,0 +1,31 @@
+Title: AST Transformations for Humanity
+
+Abstract:
+Everyone strives towards readable code, right?
+A cool thing about code is that the more it resembles your native language, the cleaner, more readable and human friendly it is.
+But in the real world we don't always get to choose the ideal language for our projects; so given this constraint, how can we improve developer experience and ease code maintainability?
+In this talk I will show how we can use Python AST transformations to make our code human friendly.
+
+Audience:
+This talk is aimed at all developers with intermediate/advanced development and Python experience.
+Participants will learn what are AST transformations, how AST transformations work in Python and how they can help developers and non-developers.
+
+Outline:
+2m Introduction: Who I am and why you should listen to me
+3m Language: Why we should prefer prefer languages that are nearer to our native languages
+5m AST: What are AST transformations
+15m Live coding: Prettify Python code using AST
+5m Q&A
+
+Shortening this session to 30 minutes is fine, but will leave less room for discussion and demos 
+
+Notes:
+I'm a fairly experienced speaker. For the past 5 years I've given at least 2 talks every year at international conferences and meetups.
+
+Some examples of my talks:
+https://youtu.be/5_mAQa1VY8Q
+https://youtu.be/HoPSS5TEqS8
+
+An example of my live coding:
+https://youtu.be/dJWCvkuqSgE
+

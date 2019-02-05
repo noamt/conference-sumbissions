@@ -1,0 +1,3 @@
+A hacker-hearted and disciplined software developer.
+Has been working on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical web applications and microservices.
+Now wreaking havoc as an independent consultant under Beerdappel Software.

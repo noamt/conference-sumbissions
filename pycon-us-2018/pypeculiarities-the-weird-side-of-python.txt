@@ -1,0 +1,25 @@
+Title: PyPeculiarities - The Weird Sides of Python
+
+Abstract:
+Let's have fun! In this session we'll take a tour of strange core and library behavior, explore weirdness of Python, discuss the dos and don'ts of cool hacks and learn some neat new tricks. But beware, engagement is a must! Each peculiarity is a code puzzle and I will ask the help of you, the audience, in solving the puzzles.
+
+Audience:
+This talk is aimed at all developers with junior/beginner experience. The only requirement is familiarity with Python's syntax.
+Participants of this talk will get a chance to see examples of pitfalls they might encounter, the causes for these pitfalls and how to avoid them.
+
+Outline:
+2m Introduction: Who I am and why you should be listening to me.
+3m Explanation: I'll present the talk's irregular format and my expectations.
+15-20m Puzzles: We'll review each puzzle, I'll ask the audience to vote on their guessed outcome, we reveal the correct outcome and we discuss the cause and solution.
+5m Recap: We discuss how to avoid or minimize peculiar behavior in our code.
+
+Notes:
+I'm a fairly experienced speaker. For the past 5 years I've given at least 2 talks every year at international conferences and meetups.
+
+The format of this talk is somewhat irregular. It's more like an educational "game show" and participants really enjoy themselves.
+
+I've given a variation of this talk at PyCon IL 2017 and the feedback was great: https://youtu.be/unYxEUsD5FA
+
+I've also given a variation of this format in numerous Groovy conferences around the world:
+https://youtu.be/wbhcMGO94d8
+https://youtu.be/GfIhxi7L6R0
