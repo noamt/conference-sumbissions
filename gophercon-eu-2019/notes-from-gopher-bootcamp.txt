@@ -1,0 +1,47 @@
+Title: Notes From Gopher Bootcamp
+
+Abstract:
+I mentored a team of developers into the world of Go, and here’s the story about how we beat the learning curves together.
+
+Description:
+Take a moment and think back to when you were a Go novice, which concepts did you struggle to understand? Can you remember how you get over them?
+
+I mentored a development team into their first venture with Go - a rewrite of our research system. Go has learning curves, both the technical and conceptual, which can stand in the way of developer productivity and happiness. In this session I’ll cover the concepts we struggled with and the methods which I used to overcome them.
+
+Notes:
+
+Abstract
+
+I mentored my team through their transition to Go in order to rewrite our research system, and I would like to share anecdotes from the experience.
+
+With this talk I hope to help experienced Go developers become better mentors to their own teams by increasing understanding.
+
+I think mentoring is very important and try to be the best mentor I can, because much like Jessica Kerr said, a software team is a symmathesy.
+
+I’ll start by outlining the scope of the project, and continue by describing the concepts my team struggled with and how I helped them overcome:
+1) The importance of mentoring
+
+In this part I will talk about why I think mentoring is so important, and that happy and informed developers are good developers.
+
+An anecdote I normally like to give is the time I spoke to a developer that was “forced” into using git. Naturally he didn’t think much of it.
+2) Project structure
+
+Why do we need $GOPATH and why does the structure look the way it is?
+3) Execution
+
+    I try to run my application but I keep getting an error main.go:8:2: undefined: MyFunction
+
+What actually happens when I hit go run?
+5) Lean interfaces
+
+Why are most core interfaces so small? What are the benefits of this convention?
+6) Pointers and references
+
+The sudden appearance of pointers and references in a relatively new language normally raises some eye-brows. It’s important that developers understand them, and not fear them.
+7) Proper error handling
+
+At first they seem like cumbersome boilerplate, hardly as powerful as exceptions, which is why it’s important to understand that errors are values.
+
+
+Extra info:
+Hi committee members! Just a bit more about myself beyond the bio - I’m an experienced speaker and have enjoyed every moment of it. I’ve had the pleasure to give presentations at both local meetups and international conferences on the subjects of Groovy, Python and Go. This is the first iteration of this talk so I’m still unsure about how enticing this is. I’ll be happy to hear feedback about the idea no matter the outcome

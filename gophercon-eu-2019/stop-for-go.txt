@@ -1,0 +1,16 @@
+Title: Stop for Go
+
+Abstract:
+“Stop” is a library which gives you a way of gracefully halting a long running go processes
+
+Description:
+The rise of containers and preemptible VMs have introduced yet another software requirement - graceful halting. No longer being able to rely on ctrl-d, SIGINT and kill -9, I’ve developed a small library that can help your long running application to gracefully halt whenever needed.
+
+Notes:
+In the talk I’ll present the background: The requirement of this library actually came from the combination of running a bunch of Go async workers on Kubernetes.
+
+The “conflict”: K8s offers a way to signal for an application to stop before the container is shutdown. The problem is that K8s can only invoke a command, and long running processes such as pubsub listeners are unable to communicate with it.
+
+And the solution: My library :)
+
+Stop has two parts: 1) An executable that communicates with the entity requesting to halt, K8s in our example 2) A “listener” module that notifies the application that a command has been received
