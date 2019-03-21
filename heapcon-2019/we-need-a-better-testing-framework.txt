@@ -1,0 +1,28 @@
+Title: We Need a Better Testing Framework
+
+Description:
+I've created a Python testing framework named "Nimoy" which I believe can greatly improve the lives of many Python developers. My talk covers typical testing strategies, how they apply the current tooling and how they can be vastly improved using Nimoy.
+On top of that I'll give a live demo and a "call-to-arms" for help with the framework and integration with existing tooling.
+
+Abstract:
+Python has a super rich and active ecosystem, and py.test is great, but I believe we deserve a better testing framework.
+This is why I've started developing a new framework named "Nimoy".
+Using Nimoy, I set out to make Python testing beautiful, expressive, pragmatic and fun.
+
+Audience:
+This talk is suitable for test writing Python developers of any level.
+Participants will learn about different testing paradigms, the importance of clarity, simplicity and maintainability in testing, and how Nimoy can help them. 
+
+Notes:
+Nimoy on github: https://github.com/browncoat-ninjas/nimoy
+
+A blog post I've written about why I think a Nimoy is needed: https://medium.com/python-pandemonium/python-needs-a-fresh-testing-framework-19b41f3aa2d
+
+I'm a fairly experienced speaker. For the past 5 years I've given at least 2 talks every year at international conferences and meetups.
+
+Some examples of my talks:
+https://youtu.be/5_mAQa1VY8Q
+https://youtu.be/HoPSS5TEqS8
+
+An example of my live coding:
+https://youtu.be/dJWCvkuqSgE
