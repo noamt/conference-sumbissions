@@ -1,0 +1,11 @@
+Title: We Need a Better Testing Framework
+
+Abstract:
+Python has a super rich and active ecosystem, and py.test is great, but I believe we deserve a better testing framework.
+This is why I've started developing a new framework named "Nimoy".
+Using Nimoy, I set out to make Python testing beautiful, expressive, pragmatic and fun.
+
+Take aways:
+Participants will learn how my framework can help them write better Python tests
+
+Participants will also learn about different testing paradigms, the importance of clarity, simplicity and maintainability in testing

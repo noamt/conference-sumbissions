@@ -1,0 +1,8 @@
+Bio: 
+A hacker-hearted and disciplined software engineer. Has been working on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical web applications and microservices. Now wreaking havoc at VanMoof Bicycles
+
+Speaking experience:
+I'm a fairly experienced speaker. For the past 5 years I've given at least 2 talks every year at international conferences and meetups: Geekout, Greach, GR8Conf, PyConIL and more
+
+Pitch:
+One of the main reasons I try to speak and attend conferences is that I care about knowledge sharing and community participation. Much like Jessica Kerr's definition, I believe our definition is symmathecists, and this is my way of growing and helping other people grow together with me.
