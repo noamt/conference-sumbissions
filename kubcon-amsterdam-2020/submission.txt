@@ -1,0 +1,24 @@
+Title: Why DevOps Tools Are Written In Go
+
+Abstract:
+The DevOps landscape is transforming at crash speed. In this race some emerging principals are proving to be important pillars of "good" DevOps.
+Developers turned DevOps carry with them idioms and conventions that clash with these principals.
+Many a good developer keep to their ways and sometimes force them where they don't fit.
+But listen to the tools and languages at use. They can teach many of these principles. They guide you towards resiliency, observability and more.
+It's no coincidence that Go is the foundation of many DevOps tools. 
+
+Benefits to the Ecosystem:
+I've lead a number of seasoned backend teams and software companies into modern DevOps practices and one of the issues that repeatedly haunted me was baggage of older practices, hindering progress and development.
+
+One simple example with huge ramifications is the tendency to log *everything* in the application. The process of creating, storing and analyzing so much adds numerous operational complexities and informational noise.
+When starting out with go, a developer might wonder why the default logging framework contains only "printf","fatal" and "panic" methods.
+"Where's debug? Where's warn? Where's error?" they would ask and turn to libraries such as Uber's zap.
+
+But the message here is not that you should use an external library, the message is that you should log meaningful things or fail. An effective, minimalistic and complexity-reducing method.
+
+Go defines idioms which are meaningful for DevOps, and it's easy to overlook them especially when you're a seasoned developer, because you already come with a set of systems, methods and beliefs.
+
+I'd like to help developers by encouraging them to pay attention to these idioms and use them effectively in a cloud native environment.
+
+Bio:
+A hacker-hearted software engineer and DevOps cowboy. Noam has spent the past decade working on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical systems ranging from software delivery, to medical devices and IoT. You may have also heard him speak at conferences such as DevOps Days, PyCon, Jenkins User Conference and Gr8conf. His love of creation isn't limited to programming, so he has co-created and co-founded podcasts, meetups, unconferences and music. Noam is now wreaking havoc at VanMoof Bicycles.
