@@ -1,0 +1,29 @@
+Title:
+Why DevOps Tools Are Written In Go
+
+Elevator pitch:
+The DevOps landscape is transforming at crash speed and emerging principals are proving to be important pillars of "good" DevOps.
+Devs turned DevOps have much to learn from the Go language.
+It's no coincidence that Go is the foundation of many DevOps tools. 
+
+Description:
+Many a good developer keep to their ways and sometimes force them where they don't fit.
+
+But if we listen to the tools and languages we use, we can learn many important principles.
+Go guides us towards these principals - resiliency, observability, pragmatism and more.
+
+In this talk I'll speak about what Go can teach us about good Ops and vice versa.
+It's no coincidence that Go is the foundation of many DevOps tools.
+
+Notes:
+I've lead a number of seasoned backend teams and software companies into modern DevOps practices and one of the issues that repeatedly haunted me was baggage of older practices, hindering progress and development.
+
+One simple example with huge ramifications is the tendency to log *everything* in the application. The process of creating, storing and analyzing so much adds numerous operational complexities and informational noise.
+When starting out with go, a developer might wonder why the default logging framework contains only "printf","fatal" and "panic" methods.
+"Where's debug? Where's warn? Where's error?" they would ask and turn to libraries such as Uber's zap.
+
+But the message here is not that you should use an external library, the message is that you should log meaningful things or fail. An effective, minimalistic and complexity-reducing method.
+
+Go defines idioms which are meaningful for DevOps, and it's easy to overlook them especially when you're a seasoned developer, because you already come with a set of systems, methods and beliefs.
+
+I'd like to help developers by encouraging them to pay attention to these idioms and use them effectively in a cloud native environment.
