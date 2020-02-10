@@ -1,0 +1,12 @@
+bio:
+A hacker-hearted software engineer and DevOps Cowboy. Has been working on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical web applications and microservices. Now wreaking havoc at VanMoof Bicycles
+
+description:
+
+Many a good developer keep to their ways and sometimes force them where they don't fit.
+
+But if we listen to the tools and languages we use, we can learn many important principles.
+Go guides us towards these principals - resiliency, observability, pragmatism and more.
+
+In this talk I'll speak about what Go can teach us about good Ops and vice versa.
+It's no coincidence that Go is the foundation of many DevOps tools.
