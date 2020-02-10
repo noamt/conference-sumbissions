@@ -1,0 +1,8 @@
+bio:
+ A hacker-hearted software engineer and DevOps Cowboy. Has been working on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical web applications and microservices. Now wreaking havoc at VanMoof Bicycles
+ 
+ description:
+ Python has a super rich and active ecosystem, and py.test is great, but I believe we deserve a better testing framework.
+This is why I've developed a new testing framework named "Nimoy".
+Heavily inspired by the Spock testing framework, the framework introduces a DSL that improves Python testing, but challenges Pythonic idioms.
+Using Nimoy, I set out to make Python testing beautiful, expressive, pragmatic and fun.
